@@ -3,7 +3,7 @@
   <img src=./Image-Examples/Image_Examples-01.png width=75% style="border: 1px solid #545454;">
 </p>
 
-### <a href="https://github.com/JakubovBrloh/Console-Boogeyman/releases"> <p style="text-align:center"><u style="text-decoration: underline dashed 1px">Download here</u></p></a>
+#### <a href="https://github.com/JakubovBrloh/Console-Boogeyman/releases"> <p style="text-align:center"><u style="text-decoration: underline dashed 1px">Download here</u></p></a>
 
 ## Contents
 1. [About](#about)
@@ -31,7 +31,7 @@
 ## Bugs
 Only encountered bug I've found is either missing or incorrect rendering of U+2329 & U+232A characters (Right- & Left-Pointing Angle Brackets " <b>〈 〉</b> "). 
 
-To suggest a bug, open an issue (please check if a similar issue exists first).
+To report a bug, open an issue (please check if a similar issue exists first).
 
 ## Suggest Improvement
 To suggest an improvement or fix, open an issue (please check if a similar issue exists first).
